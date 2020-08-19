@@ -1,0 +1,62 @@
+{
+  "title": "Home",
+  "content": "intro.md",
+  "gallery": [
+    {
+      "title": "Partner mnie zdradza",
+      "problems": [
+        "Czuję rozpacz.",
+        "Jestem w furii.",
+        "Nie wiem czy jeszcze komuś zaufam..."
+      ],
+      "solutions": [
+        "Pomogę Ci zapanować nad tym uczuciami",
+        "Wesprę w podjęciu życiowych decyzji.",
+        "Zaproponuję plan działań."
+      ],
+      "image": "../images/gallery/soffka-partner-mnie-zdradza.jpg"
+    },
+    {
+      "title": "Cierpię po rozstaniu",
+      "problems": [
+        "Nie mogę przestać o nim myśleć.",
+        "Nie mogę jej wybaczyć.",
+        "Nie wiem jak żyć."
+      ],
+      "solutions": [
+        "Pokażę Ci jak podnieść Swoją energię.",
+        "Pomogę Ci poradzić sobie z uczuciem żalu i straty.",
+        "Będę towarzyszyć Ci w przejściu przez kryzys."
+      ],
+      "image": "../images/gallery/soffka-cierpie-po-rozstaniu.jpg"
+    },
+    {
+      "title": "Uleczmy nasz związek",
+      "problems": [
+        "Chcemy naprawić nas związek.",
+        "Wierzę, że możemy do siebie wrócić.",
+        "Nie wiemy, czy możemy być jeszcze razem."
+      ],
+      "solutions": [
+        "Będę Waszym mediatorem.",
+        "Pomogę zrozumieć istotę konfliktu.",
+        "Wypracujemy możliwe rozwiązania."
+      ],
+      "image": "../images/gallery/soffka-naprawa-zwiazku.jpg"
+    },
+    {
+      "title": "Jestem niewierny",
+      "problems": [
+        "Niczego nie żałuję i niczego mi nie żal.",
+        "Czuję rozdarcie.",
+        "Czy to w porządku, że wreszcie czuję szczęście?"
+      ],
+      "solutions": [
+        "Będę Twoim powiernikiem.",
+        "Pomogę Ci uporządkować uczuciowy chaos.",
+        "Pokażę Ci jak rozwiązać dylematy."
+      ],
+      "image": "../images/gallery/soffka-zdradzam-jestem-niewierny-mam-romans.jpg"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+Mój związek przechodzi kryzys
