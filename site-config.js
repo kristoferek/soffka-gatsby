@@ -1,7 +1,7 @@
 const path = require('path');
 
 module.exports = {
-  siteTitle: 'Soffka - rozwiniecie tytułu',
+  siteTitle: 'Soffka - porady na zdrady',
   siteTitleShort: 'Soffka',
   siteDescription:
     'Wsparcie psychologiczne przy niewierności, rozstaniu, naprawie związku.',
