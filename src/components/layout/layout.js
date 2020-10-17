@@ -4,9 +4,10 @@ import { StaticQuery, graphql } from 'gatsby';
 import Head from 'components/head';
 import Header from 'components/header';
 import GlobalStyle from 'global.css.js';
+import { StyledLayout } from './layout.css';
 
 const Layout = ({ data, children }) => (
-  <div>
+  <StyledLayout>
     <GlobalStyle />
     <Head />
     <Header
@@ -14,7 +15,7 @@ const Layout = ({ data, children }) => (
       mobileTitle={data.site.siteMetadata.siteTitleShort}
     />
     {children}
-  </div>
+  </StyledLayout>
 );
 
 Layout.propTypes = {
